@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19ad230f-c0a7-4a2f-a3ff-7daff9708f7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Renew/Chap4_Graph/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algs4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algs4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algs4/week_2/Elementary_Sorts/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algs4/week_2/Elementary_Sorts/Merge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algs4/week_2/Elementary_Sorts/words3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/StdIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/util/StdIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/StdOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/util/StdOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_1/Union_Find/QuickFindUF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_1/Union_Find/QuickFindUF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_1/Union_Find/QuickUnionUF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_1/Union_Find/QuickUnionUF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_1/Union_Find/WeightedQuickUnionUF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_1/Union_Find/WeightedQuickUnionUF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Insertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/MaxPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/MaxPQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/MergeBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/MergeBU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/Multiway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Multiway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/Quick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Quick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/Quick3way.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Quick3way.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Selection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Shell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/SortCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/SortCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/tiny.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/tiny.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_2/Elementary_Sorts/words3.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,11 +46,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
+          <entry key="CLASS" value="4" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="35" />
+          <entry key="JAVA" value="36" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="9" />
+          <entry key="UML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -81,7 +62,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2020" />
+          <entry key="JAVA" value="2415" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -89,18 +70,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Older/week_2/Elementary_Sorts/Merge.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,53 +94,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Older/util/StdOut.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="178" column="40" selection-start-line="178" selection-start-column="40" selection-end-line="178" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algs4.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Older/week_1/Union_Find/QuickFindUF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Older/week_1/Union_Find/QuickUnionUF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="746">
-              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Older/week_1/Union_Find/WeightedQuickUnionUF.java">
+        <entry file="file://$PROJECT_DIR$/src/Renew/Chap4_Graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="83">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -216,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/week_2/Elementary_Sorts/MergeTest.java" />
         <option value="$PROJECT_DIR$/src/week_2/Elementary_Sorts/Merge.java" />
         <option value="$PROJECT_DIR$/src/week_2/Elementary_Sorts/tiny.txt" />
+        <option value="$PROJECT_DIR$/src/Renew/Chap4_Graph/Graph.java" />
       </list>
     </option>
   </component>
@@ -265,14 +202,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543672904525" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543674912647" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -397,17 +334,18 @@
       <workItem from="1542030004399" duration="1257000" />
       <workItem from="1542031673221" duration="802000" />
       <workItem from="1543672462288" duration="60000" />
-      <workItem from="1543672534344" duration="376000" />
+      <workItem from="1543672534344" duration="1745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16705000" />
+    <option name="totallyTimeSpent" value="18074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1003" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29925054" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17291221" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -422,7 +360,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29304448" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24086758" />
       <window_info anchor="bottom" id="CheckStyle" order="8" weight="0.32990867" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005353" side_tool="true" weight="0.23972602" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -571,13 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Older/util/StdIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="232" column="26" selection-start-line="232" selection-start-column="19" selection-end-line="232" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Older/util/StdOut.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -603,6 +534,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Older/week_1/Union_Find/WeightedQuickUnionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Older/week_1/Union_Find/QuickUnionUF.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="746">
@@ -610,10 +548,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Older/week_1/Union_Find/WeightedQuickUnionUF.java">
+    <entry file="file://$PROJECT_DIR$/src/Older/util/StdIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="259">
+          <caret line="232" column="26" selection-start-line="232" selection-start-column="19" selection-end-line="232" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/rt">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>rt</OriginalElement>
+          <nodes>
+            <node x="" y="">rt</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="26.5" y="17.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/java/util/AbstractMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#11565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Renew/Chap4_Graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -674,7 +655,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
