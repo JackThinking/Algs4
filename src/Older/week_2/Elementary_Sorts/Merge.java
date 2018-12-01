@@ -1,8 +1,8 @@
 package week_2.Elementary_Sorts;
 
 
-import util.StdIn;
-import util.StdOut;
+import edu.princeton.cs.algs4.StdIn;
+import edu.princeton.cs.algs4.StdOut;
 
 /**
  * Created by Citrix on 2018/11/5.

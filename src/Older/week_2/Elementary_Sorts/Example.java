@@ -1,7 +1,7 @@
 package week_2.Elementary_Sorts;
 
-import util.StdIn;
-import util.StdOut;
+import Older.util.StdIn;
+import Older.util.StdOut;
 
 /**
  * Created by Citrix on 2018/11/1.
